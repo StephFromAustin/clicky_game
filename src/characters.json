@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "image": "./images/bob.jpg",
+        "charactername": "Bob Belcher"
+    },
+    {
+        "id": 2,
+        "image": "./images/linda.jpg",
+        "charactername": "Linda Belcher"
+    },
+    {
+        "id": 3,
+        "image": "./images/frond.jpg",
+        "charactername": "Mr. Frond"
+    },
+    {
+        "id": 4,
+        "image": "./images/gayle.jpg",
+        "charactername": "Aunt Gayle"
+    },
+    {
+        "id": 5,
+        "image": "./images/gene.jpg",
+        "charactername": "Gene Belcher"
+    },
+    {
+        "id": 6,
+        "image": "./images/jimmyjr.jpg",
+        "charactername": "Jimmy Pesto Jr."
+    },
+    {
+        "id": 7,
+        "image": "./images/business.jpg",
+        "charactername": "Mister Business"
+    },
+    {
+        "id": 8,
+        "image": "./images/louise.jpg",
+        "charactername": "Louise Belcher"
+    },
+    {
+        "id": 9,
+        "image": "./images/millie.jpg",
+        "charactername": "Millie"
+    },
+    {
+        "id": 10,
+        "image": "./images/mort.jpg",
+        "charactername": "Mort"
+    },
+    {
+        "id": 11,
+        "image": "./images/teddy.jpg",
+        "charactername": "Teddy"
+    },
+    {
+        "id": 12,
+        "image": "./images/tina.jpg",
+        "charactername": "Tina Belcher"
+    },
+    {
+        "id": 13,
+        "image": "./images/yap.jpg",
+        "charactername": "Dr.Yap"
+    },
+    {
+        "id": 14,
+        "image": "./images/harrold.jpg",
+        "charactername": "Harrold"
+    },
+    {
+        "id": 15,
+        "image": "./images/edith.jpg",
+        "charactername": "Edith"
+    }
+]
